@@ -313,6 +313,9 @@ height: 100%;
   width: 253px;
   height: 237px;
 }
+.card{
+  height: 50vh !important;
+}
 .container_div4{
   justify-content:flex-start;
   height: 75vh;
