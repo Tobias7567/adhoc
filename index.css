@@ -83,7 +83,7 @@
    
     justify-content: left;
     padding: 9% 0% 3% 7%;
-    text-shadow: rgb(153, 153, 153) 1px 1px 1px;
+    text-shadow: rgb(153, 153, 153)  0.3px 0.3px 0.3px;
     font-size: 2.2em;
   
   }
@@ -93,7 +93,7 @@
     width: 80%;
     padding: 3% 0% 3% 13%;
     font-size: 1.9em;
-    text-shadow: rgb(153, 153, 153) 1px 1px 1px;
+    text-shadow: rgb(153, 153, 153)  0.3px 0.3px 0.3px;
  
   }
   .container_img2{
@@ -290,15 +290,26 @@ height: 100%;
     .container_ul li{
       display: flex;
       text-decoration: none;
-      margin: 3% 8% 0% 0em;
+      margin: 3% 6% 0% 0%;
       font-size: 1.7em;
       
   }
-
-  
+.container_text h3{
+  width: 100%;
+  padding: 3% 0% 3% 6%;
+  text-shadow: rgb(153, 153, 153)  0.3px 0.3px 0.3px;
+}
+  .container_img2{
+    justify-content: right;
+    width: 100%;
+    padding: 20px 30px 30px 0px;
+    
+    
+    }
 .container_img2 img{
   opacity: 0.9;
   border-radius: 1%;
+  padding: 3%;
   width: 253px;
   height: 237px;
 }
