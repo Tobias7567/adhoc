@@ -19,7 +19,7 @@
         rgba(32, 58, 67, 0.404),
         rgba(16, 33, 40, 0.404)
       ),
-      url(imagenes/Fondo_inicio_Grande.jpg);
+      url(Fondo_inicio_Grande.jpg);
 }
 .container_nav{
     display: flex;
@@ -68,7 +68,7 @@
         rgba(32, 58, 67, 0.404),
         rgba(16, 33, 40, 0.404)
       ),
-      url(imagenes/Fondo_div2_prueba.jpg);
+      url(Fondo_div2_prueba.jpg);
     
   }
   .container_text{
@@ -129,7 +129,7 @@ height: 450px;
         rgba(32, 58, 67, 0.404),
         rgba(16, 33, 40, 0.404)
       ),
-      url(imagenes/fondo_div3_prueba.jpg);
+      url(fondo_div3_prueba.jpg);
     
   }
   .container_div4 h2{
@@ -164,7 +164,7 @@ height: 450px;
         rgba(32, 58, 67, 0.404),
         rgba(16, 33, 40, 0.404)
       ),
-      url(imagenes/fondo_footer_prueba.jpg);
+      url(fondo_footer_prueba.jpg);
   }
   .container_card{
     display: flex;
@@ -206,7 +206,7 @@ height: 100%;
         rgba(32, 58, 67, 0.404),
         rgba(16, 33, 40, 0.404)
       ),
-     url(imagenes/fondo_footer_prueba.jpg);
+     url(fondo_footer_prueba.jpg);
   }
   .footer div {
   flex-direction: column; 
@@ -316,6 +316,7 @@ height: 100%;
   padding-right: 20px;
   
   }
+  
 .container_img2 img{
   opacity: 0.9;
   border-radius: 1%;
