@@ -317,8 +317,8 @@ height: 100%;
   height: 50vh !important;
 }
 .container_div4{
-  justify-content:flex-start;
-  height: 75vh;
+  justify-content:center;
+  height: 85vh;
 }
   .container_div4 h2{
     margin-top: 1.1em;
